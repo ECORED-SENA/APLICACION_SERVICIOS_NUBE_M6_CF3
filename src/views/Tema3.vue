@@ -7,7 +7,7 @@
         span 3
       h1 Estructura de la interfaz de la aplicación. Caso de estudio: Servicio de publicación de posts
 
-    p(data-aos="fade-up") Por lo regular, cuando se quiere hacer un proyecto nuevo software, es normal que se realicen sketchs, bocetos o dibujos rápidos para tener una imagen visual de cómo será la interfaz gráfica del sistema. Esto ayuda mucho a los equipos de desarrolladores y diseñadores a plasmar una visión concreta de cómo será el proyecto en realidad, y todo inicia desde un boceto en papel. Mientras se realiza esta tarea a lápiz, se realizan cambios, se hacen correcciones o “tachones”, se tienen mejores ideas y estos sketchs se convierten en el prototipo del proyecto final, en definitiva, en Mockups.
+    p(data-aos="fade-up") Por lo regular, cuando se quiere hacer un proyecto nuevo de software, es normal que se realicen sketchs, bocetos o dibujos rápidos para tener una imagen visual de cómo será la interfaz gráfica del sistema. Esto ayuda mucho a los equipos de desarrolladores y diseñadores a plasmar una visión concreta de cómo será el proyecto en realidad, y todo inicia desde un boceto en papel. Mientras se realiza esta tarea a lápiz, se realizan cambios, se hacen correcciones o “tachones”, se tienen mejores ideas y estos sketchs se convierten en el prototipo del proyecto final, en definitiva, en Mockups.
 
     .col-md-10.mt-5.row
       .col-md-7.mb-3
@@ -69,7 +69,7 @@
             b-card-text
               figure
                 img(src="@/assets/curso/tema3/6.png")
-                figcaption Panel de creación de proyecto en Balsamiq Cloud..
+                figcaption Panel de creación de proyecto en Balsamiq Cloud
 
           b-tab
             template(#title)
@@ -78,7 +78,7 @@
                 |  Diseño de la estructura de la interfaz
             b-card-text
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p Con esta herramienta es posible generar de manera estructural las vistas de la aplicación. De este modo solo se describe en palabras de cuántas vistas son necesarias, cuántos objetos de interacción son necesarios. Es decir, solo se presenta una propuesta de la estructura de la interfaz de la aplicación. De esta manera, esta actividad comúnmente se hace a lápiz y papel, no obstante, con balsamiq se puede hacer esta tarea sin mayor dificultad como se presenta en la siguiente ilustración:
+                p Con esta herramienta es posible generar de manera estructural las vistas de la aplicación. De este modo solo se describe en palabras de cuántas vistas son necesarias, cuántos objetos de interacción son necesarios. Es decir, solo se presenta una propuesta de la estructura de la interfaz de la aplicación. De esta manera, esta actividad comúnmente se hace a lápiz y papel, no obstante, con Balsamiq se puede hacer esta tarea sin mayor dificultad como se presenta en la siguiente ilustración:
               figure.mt-3
                 img(src="@/assets/curso/tema3/7.png")
                 figcaption Diseño de la estructura de la interfaz
@@ -90,7 +90,7 @@
                 |  Creación de las vistas del sistema
             b-card-text
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p Como el caso de estudio para este componente formativo es un servicio básico de publicación de Posts, se tendrá dos vistas para esta aplicación. Por lo tanto, se ha diseñado que la aplicación Web sea responsive y se toma como plataforma un dispositivo móvil (tablet).  Al respecto la barra de herramientas de Balsamiq proporciona todo para esta primera tarea. Por lo que en la sección de material de apoyo se deja un video que abarca las bondades de esta herramienta. A continuación, se muestran las vistas de la aplicación:
+                p Como el caso de estudio para este componente formativo es un servicio básico de publicación de Posts, se tendrán dos vistas para esta aplicación. Por lo tanto, se ha diseñado que la aplicación Web sea responsive y se toma como plataforma un dispositivo móvil (tablet). Al respecto la barra de herramientas de Balsamiq proporciona todo para esta primera tarea. Por lo que en la sección de material de apoyo se deja un video que abarca las bondades de esta herramienta. A continuación, se muestran las vistas de la aplicación:
               .row.mt-3
                 .col-md-6.mb-3
                   figure
@@ -100,9 +100,9 @@
                     img(src="@/assets/curso/tema3/9.png")
               
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p Para este caso se realizan dos vistas, la primera es solo un formulario, el cual tiene tres (3) objetos de interacción. El primero de ellos es una caja de texto en el cual se digita el título, el segundo es un área de texto donde se describe el contenido del post y por último se tiene un botón el cual envía esos datos a una segunda vista. Desde Balsamiq se puede generar este tipo de interacción para que se genere la navegación de una vista a otra de manera inmediata revisando las opciones del objeto button.
+                p Para este caso se realizan dos vistas, la primera es solo un formulario, el cual tiene tres (3) objetos de interacción. El primero de ellos es una caja de texto en la cual se digita el título, el segundo es un área de texto donde se describe el contenido del post y por último se tiene un botón el cual envía esos datos a una segunda vista. Desde Balsamiq se puede generar este tipo de interacción para que se genere la navegación de una vista a otra de manera inmediata revisando las opciones del objeto button.
 
-                p.mt-3 Por otra parte, se tiene la segunda vista la cual muestra de manera ordenada la lista de post publicada por el usuario, con el formato como se detalla en esa ilustración, se resalta que la fecha el sistema debe tomarla de manera automática cuando se hace la publicación.
+                p.mt-3 Por otra parte, se tiene la segunda vista la cual muestra de manera ordenada la lista de post publicada por el usuario, con el formato como se detalla en esa ilustración, se resalta que la fecha, el sistema debe tomarla de manera automática cuando se hace la publicación.
 
 
 </template>

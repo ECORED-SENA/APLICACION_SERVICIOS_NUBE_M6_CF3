@@ -7,7 +7,7 @@
         span 4
       h1 Construcción de la estructura del frontend
 
-    p(data-aos="fade-up") Para el desarrollo de la estructura del frontend, el cual para el alcance de este componente formativo estará solo dedicado a las tecnologías de HTML5 y CSS3, se utilizará un framework de maquetación el cual se llama Materialize. Al respecto es un framework CSS que permite crear sitios y aplicaciones web con los principios de Material Design. La versión estándar del framework contiene CSS y JavaScript y trae los CSS listos para trabajar.
+    p(data-aos="fade-up") Para el desarrollo de la estructura del frontend, el cual para el alcance de este componente formativo estará solo dedicado a las tecnologías de HTML5 y CSS3, se utilizará un framework de maquetación el cual se llama Materialize. Al respecto es un framework CSS que permite crear sitios y aplicaciones web con los principios de #[strong Material Design]. La versión estándar del framework contiene CSS y JavaScript y trae los CSS listos para trabajar.
 
     .col-md-11.m-auto.mt-5.row
       .col-md-5.mb-3
@@ -44,7 +44,7 @@
 
               figure.mt-3
                 img(src="@/assets/curso/tema4/1.png")
-                figcaption Estructura de directorios de Materialize.
+                figcaption Estructura de directorios de Materialize
 
           b-tab
             template(#title)
@@ -113,7 +113,7 @@
                 |  Resultado de la primera vista
             b-card-text
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p Como se alcanza a observar en el código, se sigue con la estructura tradicional de un formulario en HTML. Lo que cambia son los atributos de las clases que sirven para centrar los input o para mejorar la apariencia de cada uno de los objetos de interacción. Por ejemplo, el atributo col offset-s4 s4 se utiliza en cada una de las etiquetas permitiendo que cada componente del formulario se encuentre centrado.
+                p Como se alcanza a observar en el código, se sigue con la estructura tradicional de un formulario en HTML. Lo que cambia son los atributos de las clases que sirven para centrar los input o para mejorar la apariencia de cada uno de los objetos de interacción. Por ejemplo, el atributo #[strong col offset-s4 s4] se utiliza en cada una de las etiquetas permitiendo que cada componente del formulario se encuentre centrado.
               figure.mt-3
                 img(src="@/assets/curso/tema4/7.png")
                 figcaption Resultado de la primera vista
@@ -125,7 +125,7 @@
                 |  Desarrollo de la segunda vista
             b-card-text
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p Para esta parte se utiliza el concepto de listas en HTML, como se muestra en el siguiente código de html:
+                p Para esta parte se utiliza el concepto de listas en HTML, como se muestra en el siguiente código de HTML:
               figure.mt-3
                 img(src="@/assets/curso/tema4/8.png")
                 figcaption Código HTML - Desarrollo de listas desordenadas
@@ -137,7 +137,7 @@
                 |  Resultado de la segunda vista
             b-card-text
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p En el código HTML anterior, se presenta la estructura normal de una lista desordenada en la cual los únicos cambios radican en el uso de los tributos que hacen parte de la naturaleza del framework. Por lo que el resultado esperado se evidencia en la siguiente ilustración:
+                p En el código HTML anterior, se presenta la estructura normal de una lista desordenada en la cual los únicos cambios radican en el uso de los atributos que hacen parte de la naturaleza del framework. Por lo que el resultado esperado se evidencia en la siguiente ilustración:
               figure.mt-3
                 img(src="@/assets/curso/tema4/9.png")
                 figcaption Resultado de la segunda vista

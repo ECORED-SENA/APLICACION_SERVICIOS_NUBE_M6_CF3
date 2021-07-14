@@ -14,7 +14,7 @@
 
     p.mt-5(data-aos="fade-up") En este componente formativo se abordarán los conceptos y técnicas que apoyarán el desarrollo de la interfaz gráfica de un producto software. De esta manera se inicia con la teoría acerca del sistema de navegación e interacción de un aplicativo. Como resultado de esta conceptualización se revisará el proceso de construcción de la interfaz gráfica de un proyecto caso de estudio, por lo que se inicia con un sketch y seguidamente con la maquetación mediante herramientas de prototipado rápido y con tecnologías del lado del frontend.
 
-    p.mt-3(data-aos="fade-up") De manera adicional, se resalta el uso del framework CSS Materialize proporcionado una interfaz usable, dinámica y con una curva de aprendizaje rápida para el manejo de esta tecnología, para ello, se brindará herramientas y recursos para facilitar el desarrollo de futuros proyectos software.
+    p.mt-3(data-aos="fade-up") De manera adicional, se resalta el uso del framework CSS Materialize proporcionando una interfaz usable, dinámica y con una curva de aprendizaje rápida para el manejo de esta tecnología, para ello, se brindarán herramientas y recursos para facilitar el desarrollo de futuros proyectos software.
 
 
 </template>
