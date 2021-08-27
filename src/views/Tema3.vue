@@ -32,7 +32,7 @@
           .anexo__texto
             p(style="color:initial;") Se utilizará #[strong(style="color:initial;") Balsamiq] en el modo de servicio en la nube #[strong(style="word-break:break-all;color:initial;") (versión de prueba): https://balsamiq.cloud/]
 
-    p.mt-5 Los pasos de instalación son muy sencillos, es solo registrarse y dar click en un nuevo proyecto, como se muestran en las siguientes imágenes:
+    p.mt-5 Los pasos de instalación son muy sencillos, es solo registrarse y dar clic en un nuevo proyecto, como se muestran en las siguientes imágenes:
 
     div.mt-5
       b-card(no-body='')

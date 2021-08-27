@@ -113,7 +113,7 @@
                 |  Resultado de la primera vista
             b-card-text
               .p-4.mt-2(data-aos="fade-up" style="background-color:#F6F6F6;")
-                p Como se alcanza a observar en el código, se sigue con la estructura tradicional de un formulario en HTML. Lo que cambia son los atributos de las clases que sirven para centrar los input o para mejorar la apariencia de cada uno de los objetos de interacción. Por ejemplo, el atributo #[strong col offset-s4 s4] se utiliza en cada una de las etiquetas permitiendo que cada componente del formulario se encuentre centrado.
+                p Como se alcanza a observar en el código, se sigue con la estructura tradicional de un formulario en HTML. Lo que cambia son los atributos de las clases que sirven para centrar los inputs o para mejorar la apariencia de cada uno de los objetos de interacción. Por ejemplo, el atributo #[strong col offset-s4 s4] se utiliza en cada una de las etiquetas permitiendo que cada componente del formulario se encuentre centrado.
               figure.mt-3
                 img(src="@/assets/curso/tema4/7.png")
                 figcaption Resultado de la primera vista
